@@ -1,0 +1,4 @@
+pactoria\horseCombatPaper\extraClasses\HorseDataManagement.class
+pactoria\horseCombatPaper\Listeners\OnHorseMove.class
+pactoria\horseCombatPaper\Listeners\OnLanceSwing.class
+pactoria\horseCombatPaper\HorseCombatPaper.class

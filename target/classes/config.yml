@@ -1,0 +1,15 @@
+#all values must be integers, besides knockbackStrengthMultiplier
+
+horseMovementSpeedMultiplier: 50    #Horse movement speed is between 0.1125 and 0.3375 for each horse, this multiplier multiplies with this value to get a bigger speed value.
+slowFastHorseMiddle: 10  #if the calculated horse speed is below this value, it is a slow horse. If it is above it, it is is a fast horse.
+slowHorseMaxDamage: 5  #max damage a slow horse can take from lance swing
+fastHorseMaxDamage: 12  #max damage a fast horse can take from lance swing
+knockbackStrengthMultiplier: 1.5  #always keep above 1
+guaranteedKnockOff: 10 #after this amount of momentum, the player is guranteed to be knocked off
+maxKnockBackStrength: 10
+
+
+#heavier config calls below
+
+momentumIncrement: 0.2     # how much to increase momentum every tick of horse moving
+maxMomentum: 100     # max momentum of horse

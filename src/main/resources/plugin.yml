@@ -1,0 +1,9 @@
+name: HorseCombatPaper
+version: '${version}'
+
+main: pactoria.horseCombatPaper.HorseCombatPaper
+api-version: '1.21.8'
+load: POSTWORLD
+
+
+softdepend: [MCPetsAPI,MythicMobs,ModelEngine]
